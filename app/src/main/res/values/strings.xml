@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wizard</string>
+    <string name="error_field_required">Field is required!</string>
+    <string name="error_email_invalid">This email is invalid!</string>
+    <string name="error_phone_no_invalid">This number is invalid!</string>
+    <string name="error_password_illegal_characters">Password can only contain letters and numbers</string>
+    <string name="error_password_too_short">Password must contain at least 8 characters</string>
+    <string name="error_signin_user_not_found">"Credentials don't match any existing user"</string>
+    <string name="error_no_connection">"Couldn't connect to the server"</string>
+    <string name="wizard_initializing">Loading data…</string>
+    <string name="wizard_loading_data">@string/wizard_initializing</string>
+</resources>
